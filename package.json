@@ -1,0 +1,19 @@
+{
+  "name": "file-suffix-align",
+  "bin": "./index.js",
+  "version": "0.1.0",
+  "description": "Delete all files with incomplete suffixes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "vv13",
+  "license": "ISC",
+  "engines": {
+    "node": ">=8.9"
+  },
+  "dependencies": {
+    "rimraf": "^3.0.1"
+  }
+}
